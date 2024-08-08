@@ -1,0 +1,37 @@
+site_name: Spot@MHS
+site_url: https://purelyboba.github.io/openpayload
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: purple
+      accent: purple
+    - scheme: slate 
+      toggle: 
+        icon: material/toggle-switch
+        name: Switch to light mode  
+      primary: purple
+      accent: lime
+  features:
+    - navigation.footer
+plugins:
+  - search
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+nav:
+ - index.md
+ - Spot Fundamentals:
+    - spot-fundamentals/spot-fundamentals.md
+    - spot-fundamentals/unboxing-spot.md
+ - OpenPayload:
+    - open-payload/open-payload.md
+copyright: 
+  © 2024 <a href="https://mhs.millburn.org/"  target="_blank" rel="noopener">Millburn High School</a>

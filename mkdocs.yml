@@ -31,6 +31,8 @@ nav:
  - Spot Fundamentals:
     - spot-fundamentals/spot-fundamentals.md
     - spot-fundamentals/unboxing-spot.md
+    - spot-fundamentals/anatomy-of-spot.md
+    - spot-fundamentals/power-management.md
  - OpenPayload:
     - open-payload/open-payload.md
 copyright: 

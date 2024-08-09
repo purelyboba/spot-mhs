@@ -4,9 +4,8 @@ title: Unboxing Spot
 
 # Unboxing Spot
 
-## Objective
-
-Safely unpack Spot.
+???+ abstract "Objective"
+    Safely unpack Spot.
 
 ???+ warning
     The initial unboxing and handling of Spot should be carried out by adults. Over time, students can be trained and certified to take on these tasks, but under the constant supervision of adults.
@@ -28,11 +27,11 @@ Always use two people to lift Spot, one at the front and one at the rear, as pic
 Rolling Spot from its belly to its back (or vice versa) can be done with only one person. The handles should always be used to avoid pinch points.
 
 <figure markdown="span">
-  ![safe unboxing](../media/spot-safe-rolling.gif){ width="400"; loading=lazy }
+  ![safe rolling](../media/spot-safe-rolling.gif){ width="400"; loading=lazy }
 </figure>
 
 When lifting with the handles, always grab the handles with clenched fists and maintain safe lifting precautions.
 
 <figure markdown="span">
-  ![safe unboxing](../media/lifting-with-handles.gif){ width="400"; loading=lazy }
+  ![safe lifting with handles](../media/lifting-with-handles.gif){ width="400"; loading=lazy }
 </figure>

@@ -4,9 +4,8 @@ title: Spot Fundamentals
 
 # Spot Fundamentals
 
-## Objective
-
-Effectively and safely utilize Spot by gaining a comprehensive understanding of its parts, features, power management, startup procedures, and storage, while also recognizing its basic operation philosophy and limitations. Prioritize safety and security in all aspects of Spot's usage.
+???+ abstract "Objective"
+    Effectively and safely utilize Spot by gaining a comprehensive understanding of its parts, features, power management, startup procedures, and storage, while also recognizing its basic operation philosophy and limitations. Prioritize safety and security in all aspects of Spot's usage.
 
 ## Prerequisites
 

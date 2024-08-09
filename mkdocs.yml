@@ -18,6 +18,9 @@ theme:
       accent: lime
   features:
     - navigation.footer
+    - navigation.tabs
+    - navigation.instant
+    - navigation.instant.progress
 plugins:
   - search
 markdown_extensions:
@@ -33,7 +36,14 @@ nav:
     - spot-fundamentals/unboxing-spot.md
     - spot-fundamentals/anatomy-of-spot.md
     - spot-fundamentals/power-management.md
+    - spot-fundamentals/startup-shutdown.md
+    - spot-fundamentals/storage-safety.md
+ - Locomotion with Controller:
+    - locomotion-with-controller/locomotion-with-controller.md
+    - locomotion-with-controller/operational-safety.md
+    - locomotion-with-controller/controller-layout.md
  - OpenPayload:
     - open-payload/open-payload.md
 copyright: 
-  © 2024 <a href="https://mhs.millburn.org/"  target="_blank" rel="noopener">Millburn High School</a>
+  © 2024 <a href="https://mhs.millburn.org/"  target="_blank" rel="noopener">Millburn Robotics</a>.
+  Special thanks to Boston Dynamics.

@@ -42,6 +42,7 @@ nav:
     - locomotion-with-controller/locomotion-with-controller.md
     - locomotion-with-controller/operational-safety.md
     - locomotion-with-controller/controller-layout.md
+    - locomotion-with-controller/self-righting-spot.md
  - OpenPayload:
     - open-payload/open-payload.md
 copyright: 

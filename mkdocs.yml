@@ -21,6 +21,9 @@ theme:
     - navigation.tabs
     - navigation.instant
     - navigation.instant.progress
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
 plugins:
   - search
 markdown_extensions:
@@ -28,6 +31,13 @@ markdown_extensions:
   - md_in_html
   - admonition
   - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
   - pymdownx.superfences
 nav:
  - index.md
@@ -43,6 +53,12 @@ nav:
     - locomotion-with-controller/operational-safety.md
     - locomotion-with-controller/controller-layout.md
     - locomotion-with-controller/self-righting-spot.md
+    - locomotion-with-controller/posing-spot.md
+    - locomotion-with-controller/walking-spot.md
+    - locomotion-with-controller/arm-and-claw.md
+ - Coding Spot:
+    -  coding-spot/coding-spot.md
+    - coding-spot/spot-coding-basics.md
  - OpenPayload:
     - open-payload/open-payload.md
 copyright: 

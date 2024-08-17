@@ -57,8 +57,9 @@ nav:
     - locomotion-with-controller/walking-spot.md
     - locomotion-with-controller/arm-and-claw.md
  - Coding Spot:
-    -  coding-spot/coding-spot.md
+    - coding-spot/coding-spot.md
     - coding-spot/spot-coding-basics.md
+    - coding-spot/startup-and-movement.md
  - OpenPayload:
     - open-payload/open-payload.md
 copyright: 

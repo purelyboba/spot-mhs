@@ -12,3 +12,4 @@ title: OpenPayload
 ## Goal
 
 The goal of this project was to make an affordable and easily customizable payload. Most components are 3D printable, and the payload can be easily attached to Spot.
+
